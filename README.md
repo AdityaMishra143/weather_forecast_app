@@ -1,16 +1,11 @@
-# weather_app
 
-A new Flutter project.
+# Weather Forecast App
 
-## Getting Started
+This Weather app can provide detailed live forecasts
 
-This project is a starting point for a Flutter application.
+## Additional Information
+This app may also provide information such as humidity levels, wind speed and pressure.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-09-08 222446](https://github.com/user-attachments/assets/a18b985f-abec-4676-9c12-6f2afb62f12e)
